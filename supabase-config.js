@@ -9,7 +9,7 @@ window.HORNO28_SUPABASE_URL =
 // (Supabase > Project Settings > API Keys > "Publishable key", empieza con sb_publishable_)
 // NUNCA pegues aquí la "secret" ni la "service_role".
 window.HORNO28_SUPABASE_PUBLISHABLE_KEY =
-    'sb_publishable_PEGA_AQUI_LA_CLAVE_DEL_PROYECTO_BACKUP';
+    'sb_publishable_RBwt5WmwDU1nS4p_vpZC0w_kDmHeSzM';
 
 // Configuration status
 window.HORNO28_SUPABASE_CONFIGURED =
